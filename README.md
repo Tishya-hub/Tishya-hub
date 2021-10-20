@@ -5,7 +5,7 @@
 - 📫 How to reach me tishy.tishya@gmail.com
 - I love working with NLP, Deep Learning and computer vision libraries in Python 
 - And my favourite topic is Decision Tree and KNN
-- My alltime visualization tool is Tableau
+- My alltime visualization tool is Tableau and POwer BI
 
 
 <!---
