@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @Tishya-hub
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning advanced Data Science using R and Python
-- 💞️ I’m looking to collaborate on Learning together and grow together
-- 📫 How to reach me tishy.tishya@gmail.com
-- I love working with NLP, Deep Learning and computer vision libraries in Python 
-- And my favourite topic is Decision Tree and KNN
-- My alltime visualization tool is Tableau and POwer BI
+As a Data-driven analytics professional with a creative mindset, I thrive on pushing boundaries, testing limits, and breaking through obstacles to uncover new insights and drive transformative innovation in user-centric product development.
 
 
 <!---
